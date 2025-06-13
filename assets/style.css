@@ -3,3 +3,11 @@ background-color: tan;
 color: black;
 text-align: center;
 }
+
+li{
+    list-style: none;
+}
+
+img {
+    width: 15%;
+}
