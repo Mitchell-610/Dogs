@@ -4,8 +4,14 @@ color: black;
 text-align: center;
 }
 
+ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
 li{
     list-style: none;
+    border: 2px black solid;
 }
 
 img {
