@@ -2,16 +2,20 @@ header {
 background-color: tan;
 color: black;
 text-align: center;
+font-size: 150%
 }
 
 ul {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
 }
 
 li{
     list-style: none;
     border: 2px black solid;
+    align-content: center;
+    text-align: center;
 }
 
 img {
