@@ -22,3 +22,10 @@ img {
     width: 45%;
     align-content: center;
 }
+
+footer {
+    background-color: tan;
+    color: black;
+    text-align: center;
+    font-size: 150%
+    }
